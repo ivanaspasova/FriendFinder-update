@@ -1,0 +1,26 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "Friend-Finder App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/ivanaspasova/Friend-Finder"
+  },
+  "keywords": [
+    "app",
+    "find",
+    "friend",
+    "dating"
+  ],
+  "author": "Ivana",
+  "license": "MIT ",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
